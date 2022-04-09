@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="SchemDefinition" xsi:noNamespaceSchemaLocation="SchemFile.xsd">
+	<PMAS_PARAM> 
+	<IP>192.168.1.3</IP>
+	<ONLINE>1</ONLINE>  	
+	</PMAS_PARAM>
+</root>
+

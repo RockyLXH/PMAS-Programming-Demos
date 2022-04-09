@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=60FE0F60
+eax=00000000 ebx=00000004 ecx=60FE0F60 edx=00000000 esi=60FE0F60 edi=7710ED6B
+ebp=0028BAC0 esp=0028B7C4 program=C:\cygwin\bin\make.exe, pid 6788, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028BAC0  60FE0F60  (000000AC, FFFFFFFF, 0028BB0C, 00000000)
+0028BAF8  7710ED6B  (000000AC, 00000006, 00000000, 60FE0000)
+0028BD78  610B2BF1  (00018002, 00000024, 775CFF02, 610AA2B2)
+      1 [main] make 6788 _cygtls::handle_exceptions: Error while dumping state (probably corrupted stack)

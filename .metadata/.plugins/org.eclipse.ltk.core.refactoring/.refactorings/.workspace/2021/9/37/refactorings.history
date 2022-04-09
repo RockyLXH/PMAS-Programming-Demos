@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;cpld-rs232-example&apos;" deleteContents="true" description="Delete resource &apos;cpld-rs232-example&apos;" element1="/cpld-rs232-example" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1631352677297"/>
+</session>

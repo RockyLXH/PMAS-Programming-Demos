@@ -1,0 +1,90 @@
+11:16:17 **** Rebuild of configuration GOLD_D for project canopen ****
+Info: Internal Builder is used for build
+"C:\\MaestroDeveloperStudio\\ElmoUtils\\scripts\\cleanPreviousArtifacts.bat" canopen C:/Users/tjbli/Documents/MaestroDeveloperStudio/Maestro_workspace/canopen 
+powerpc-603e-linux-gnu-g++.exe "-IC:\\MaestroDeveloperStudio\\\\crosstool\\gcc-4.1.0-glibc-2.3.6\\powerpc-603e-linux-gnu\\include\\c++\\4.1.0\\backward" "-IC:\\MaestroDeveloperStudio\\\\crosstool\\gcc-4.1.0-glibc-2.3.6\\powerpc-603e-linux-gnu\\include\\c++\\4.1.0" "-IC:\\MaestroDeveloperStudio\\\\crosstool\\gcc-4.1.0-glibc-2.3.6\\powerpc-603e-linux-gnu\\powerpc-603e-linux-gnu\\include" "-IC:\\MaestroDeveloperStudio\\\\Maestro\\includes" "-IC:\\MaestroDeveloperStudio\\\\Maestro\\includes\\cpp" -I../ "-IC:\\MaestroDeveloperStudio\\\\cygwin\\tmp" "-IC:\\MaestroDeveloperStudio\\\\Maestro\\includes\\embl" -O0 -Wall -c -fmessage-length=0 -g -o CPP_GroupBeginDemoCAN.o "..\\CPP_GroupBeginDemoCAN.cpp" 
+cygwin warning:
+  MS-DOS style path detected: ..\CPP_GroupBeginDemoCAN.cpp
+  Preferred POSIX equivalent is: ../CPP_GroupBeginDemoCAN.cpp
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+..\CPP_GroupBeginDemoCAN.cpp: In function 'int MachineSequencesTimer()':
+..\CPP_GroupBeginDemoCAN.cpp:547: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:552: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:574: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:578: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:586: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:590: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:598: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:602: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:610: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:614: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:620: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:625: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:628: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:651: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:655: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:663: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:667: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:675: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:679: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:687: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:691: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:697: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:702: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:705: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:760: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:804: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_PowerOn_01()':
+..\CPP_GroupBeginDemoCAN.cpp:1017: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1025: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_PowerOff_01()':
+..\CPP_GroupBeginDemoCAN.cpp:1051: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1059: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_PowerOn_02()':
+..\CPP_GroupBeginDemoCAN.cpp:1086: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1094: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_PowerOff_02()':
+..\CPP_GroupBeginDemoCAN.cpp:1120: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1128: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_PTP_01()':
+..\CPP_GroupBeginDemoCAN.cpp:1187: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1198: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1222: warning: format '%08x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1232: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_PTP_02()':
+..\CPP_GroupBeginDemoCAN.cpp:1269: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1280: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1309: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1321: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_Stop_01()':
+..\CPP_GroupBeginDemoCAN.cpp:1458: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1470: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_Stop_02()':
+..\CPP_GroupBeginDemoCAN.cpp:1501: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1510: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_MoveVelocity_01()':
+..\CPP_GroupBeginDemoCAN.cpp:1554: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1565: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1582: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'void StateFunction_MoveVelocity_02()':
+..\CPP_GroupBeginDemoCAN.cpp:1635: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1645: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp:1682: warning: format '%x' expects type 'unsigned int', but argument 4 has type 'long unsigned int'
+..\CPP_GroupBeginDemoCAN.cpp: In function 'int OnRunTimeError(const char*, unsigned int, short unsigned int, short int, short unsigned int)':
+..\CPP_GroupBeginDemoCAN.cpp:1807: warning: control reaches end of non-void function
+powerpc-603e-linux-gnu-g++.exe -ocanopen.gexe CPP_GroupBeginDemoCAN.o "-LC:\\MaestroDeveloperStudio\\\\Maestro\\lib/" -Wl,-Bstatic -lMMCPPLIB -lMMC_APP_LIB -Wl,-Bdynamic -lpthread -lrt 
+cygwin warning:
+  MS-DOS style path detected: C:\MaestroDeveloperStudio\\Maestro\lib//libMMCPPLIB.a
+  Preferred POSIX equivalent is: /cygdrive/c/MaestroDeveloperStudio/Maestro/lib/libMMCPPLIB.a
+  CYGWIN environment variable option "nodosfilewarning" turns off this warning.
+  Consult the user's guide for more details about POSIX paths:
+    http://cygwin.com/cygwin-ug-net/using.html#using-pathnames
+"C:\\MaestroDeveloperStudio\\ElmoUtils\\scripts\\generateLaunchConfiguration.bat" canopen C:/Users/tjbli/Documents/MaestroDeveloperStudio/Maestro_workspace/canopen GOLD_D 
+Launch configuration already exists 
+Attach configuration for project "canopen" has been created
+Finished generating attach configuration
+Finished generating launch configuration
+
+11:16:22 Build Finished. 0 errors, 53 warnings. (took 5s.105ms)
+
