@@ -1,7 +1,0 @@
-16:42:07 **** Rebuild of configuration PLATINUM_R for project Eigenlib ****
-Info: Internal Builder is used for build
-attrib -r "C:\\MaestroDeveloperStudio\\Maestro\\lib\\platinum\\libEigenlib.a" 
-File not found - C:\MaestroDeveloperStudio\Maestro\lib\platinum\libEigenlib.a
-
-16:42:08 Build Finished. 0 errors, 0 warnings. (took 776ms)
-
