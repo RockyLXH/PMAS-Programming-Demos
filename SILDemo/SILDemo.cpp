@@ -67,6 +67,7 @@ int main()
 
 
 		for (int i=0; i < MAX_AXES; ++i)
+			cRTAxis[i].SetUser607A(0);
 			cRTAxis[i].SetBoolParameter(2, MMC_UCUSER60FF_SRC, 0);
 
 		MMC_CreateSYNCTimer(gConnHndl, SILCallBackFun, 10);

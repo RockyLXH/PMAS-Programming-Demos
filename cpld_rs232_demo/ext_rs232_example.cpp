@@ -88,9 +88,9 @@ int main()
 		return 1;
 
 	}
-	catch(CMMCException& exception)
+	catch(CMMCException& e)
 	{
-		printf("Exception in function %s, axis ref=%s, err=%d, status=%d, bye\n", exception.what(), exception.axisName(), exception.error(), exception.status());
+		printf("Exception in function %s, axis ref=%s, err=%d, status=%d, bye\n", e.what(), e.axisName(), e.error(), e.status());
 		MainClose();
 		exit(0);
 	}
